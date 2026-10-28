@@ -46,3 +46,8 @@ The objective of this project is to transform sales data into meaningful visual 
 # Conclusion
 
 This dashboard provides a clear overview of e-commerce sales performance through interactive visualizations, KPIs, and category-wise analysis.
+
+## Dashboard preview
+
+![E-Commerce Sales Dashboard]
+(sales-dashboard.png)
